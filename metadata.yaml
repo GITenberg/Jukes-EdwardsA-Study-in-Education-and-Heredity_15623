@@ -1,0 +1,45 @@
+_repo: Jukes-EdwardsA-Study-in-Education-and-Heredity_15623
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winship, Albert E. (Albert Edward)
+    aliases:
+    - Winship, Albert Edward
+    - Winship, A. E. (Albert Edward)
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '6167'
+    url: http://www.gutenberg.org/2009/agents/6167
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Edward_Winship
+description: '"Of all the problems which America faces on the land and on the seas,
+  no one is so important as that of making regenerates out of degenerates. The massing
+  of people in large cities, the incoming of vast multitudes from the impoverished
+  masses of several European and Asiatic countries, the tendency to interpret liberty
+  as license, the contagious nature of moral, as well as of physical, diseases combine
+  to make it of the utmost importance that American enterprise and moral force find
+  ways and means for accomplishing this transformation. Whatever contributes to the
+  loosening of a problem by throwing light upon the conditions is of value in aiding
+  in its solution, hence the publication of this study of the family of Jonathan Edwards
+  as a contrast to the fact-based composite called the Jukes family. This book compares
+  and contrasts the stark differences in the education, family backgrounds, achievement
+  propensities, character, values, socioeconomic levels, and motivations of the members
+  of these two families." (PsycINFO Database Record (c) 2010 APA, all rights reserved).'
+gutenberg_issued: '2005-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heredity'
+- !lcc 'LC'
+- !lcsh 'Edwards family'
+- !lcsh 'Juke family'
+- !lcc 'HV'
+title: 'Jukes-Edwards: A Study in Education and Heredity'
+url: http://www.gutenberg.org/ebooks/15623
